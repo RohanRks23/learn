@@ -1,0 +1,23 @@
+<html>
+<head>
+ <style type="text/css">
+  body {
+    color: black;
+    background-color: #9ffcb8 ;
+    font-family: Georgia, "Times New Roman", Times, serif;
+</style>
+</head>
+<body>
+<h1>My demo styled page</h1>
+<p>Welcome to my styled page!
+<p>It lacks images, but at least it has style.
+
+<p>There should be more here, but I don't know
+what yet.
+
+<!-- Sign and date the page, it's only polite! -->
+<address>Made 1 February 2023<br>
+  by myself.</address>
+</head>
+</body>
+</html>
